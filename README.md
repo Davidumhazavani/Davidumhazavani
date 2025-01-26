@@ -1,6 +1,6 @@
 - 👋 Hi, I’m David O Folalu @Davidumhazavani
 - 👀 I’m interested in serious collaborations and team work
-- 🌱 I’m currently updating seriously on the JavaScript MERN Stack coding Skills
+- 🌱 I’m a FullStack JavaScript (MERN Stack) Web Dev
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 email: techdevdavid@gmail.com
 - 😄 Pronouns: He, His
